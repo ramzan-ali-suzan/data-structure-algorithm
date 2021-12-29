@@ -37,6 +37,20 @@ It measures how quickly the run-time grows relative to the input, as the input i
 
 Source: [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
+Below is the list of some of the most used Big O notations and their performance comparisons against different sizes of the input data.
+
+| Big O Notation | Computations for 10 elements | Computations for 100 elements | Computations for 1000 elements  |
+| -------------- | ---------------------------- | ----------------------------- | ------------------------------- |
+| **O(1)**       | 1                            | 1                             | 1                               |
+| **O(log N)**   | 3                            | 6                             | 9                               |
+| **O(N)**       | 10                           | 100                           | 1000                            |
+| **O(N log N)** | 30                           | 600                           | 9000                            |
+| **O(N^2)**     | 100                          | 10000                         | 1000000                         |
+| **O(2^N)**     | 1024                         | 1.26e+29                      | 1.07e+301                       |
+| **O(N!)**      | 3628800                      | 9.3e+157                      | 4.02e+2567                      |
+
+Source: [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms#big-o-notation)
+
 ##### Resource Links
 
 - [Ace Your Coding Interview by Understanding Big O Notation — and Write Faster Code](https://medium.com/@bretcameron/ace-your-coding-interview-by-understanding-big-o-notation-and-write-faster-code-6b60bd498040)
