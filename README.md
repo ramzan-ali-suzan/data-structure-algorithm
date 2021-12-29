@@ -29,9 +29,13 @@ Space complexityis a function describing the amount of memory (space) an algorit
 
 These are the mathematical notations that are used for the asymptotic analysis of the algorithms. The most common notation used is "big O" notation.
 
-#### Big O
+#### Big O Notation
 
 It measures how quickly the run-time grows relative to the input, as the input increases of an algorithm. Another way to say, it is used for calculating the worst-case complexity of an algorithm.
+
+![Big O Complexity Chart](./assets/big-o-chart.png)
+
+Source: [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
 ##### Resource Links
 
