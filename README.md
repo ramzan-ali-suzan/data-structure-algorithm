@@ -33,7 +33,7 @@ These are the mathematical notations that are used for the asymptotic analysis o
 
 It measures how quickly the run-time grows relative to the input, as the input increases of an algorithm. Another way to say, it is used for calculating the worst-case complexity of an algorithm.
 
-#### Resource Links
+##### Resource Links
 
 - [Ace Your Coding Interview by Understanding Big O Notation — and Write Faster Code](https://medium.com/@bretcameron/ace-your-coding-interview-by-understanding-big-o-notation-and-write-faster-code-6b60bd498040)
 - [Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
