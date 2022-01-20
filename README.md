@@ -8,7 +8,7 @@ Data structure is a way of organizing the data, so that it can be used **efficie
 
 #### Usage
 
-Different kind of data structures are suited to different kind of applications, and some are highly specialized to specific tasks. For example, relational databases commonly use B-tree indexes for data retrieval, while complier implementations usually use hash tables to look up identifiers.
+Different types of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, relational databases commonly use B-tree indexes for data retrieval, while compiler implementations usually use hash tables to look up identifiers
 
 #### Categories
 
@@ -35,6 +35,8 @@ Examples are: trees and graphs.
 
 Applications of non-linear data structures are in artificial intelligence and image processing.
 
+In non-linear data structure, memory is utilized in an efficient way.
+
 ### Algorithm
 
 An algorithm is a set of instructions for solving a problem or accomplishing a task.
@@ -44,6 +46,10 @@ An algorithm is a set of instructions for solving a problem or accomplishing a t
 Algorithm efficiency relates to the amount of computational resources used by the algorithm.
 
 For maximum efficiency we wish to minimize resource usage.
+
+### Algorithm Complexity
+
+The complexity of an algorithm describes the efficiency of the algorithm in terms of the input size.
 
 Two main complexity measures of an algorithm:
 
@@ -84,7 +90,7 @@ Below is the list of some of the most used Big O notations and their performance
 
 Source: [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms#big-o-notation)
 
-##### Resource Links
+#### Resource Links
 
 - [📃 Ace Your Coding Interview by Understanding Big O Notation — and Write Faster Code](https://medium.com/@bretcameron/ace-your-coding-interview-by-understanding-big-o-notation-and-write-faster-code-6b60bd498040)
 - [🎞️ Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
