@@ -1,16 +1,16 @@
-## 🧮 Data Structures and Algorithms
+# 🧮 Data Structures and Algorithms
 
 > Being a good programmer is not about learning new languages, it is about solving complex problems in efficient way.
 
-### Data Structure
+## Data Structure
 
 Data structure is a way of organizing the data, so that it can be used **efficiently**.
 
-#### Usage
+### Usage
 
 Different types of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, relational databases commonly use B-tree indexes for data retrieval, while compiler implementations usually use hash tables to look up identifiers
 
-#### Categories
+### Categories
 
 Data structures are divided into two categories:
 
@@ -37,7 +37,7 @@ Applications of non-linear data structures are in artificial intelligence and im
 
 In non-linear data structure, memory is utilized in an efficient way.
 
-### Algorithm
+## Algorithm
 
 An algorithm is a set of instructions for solving a problem or accomplishing a task.
 
@@ -64,7 +64,7 @@ Time complexity is a function describing the amount of time an algorithm takes i
 
 Space complexity a function describing the amount of memory (space) an algorithm takes in terms of the amount of input to the algorithm.
 
-### Asymptotic Notation
+## Asymptotic Notation
 
 These are the mathematical notations that are used for the asymptotic analysis of the algorithms. The most common notation used is "big O" notation.
 
@@ -95,3 +95,5 @@ Source: [javascript-algorithms](https://github.com/trekhleb/javascript-algorithm
 - [📃 Ace Your Coding Interview by Understanding Big O Notation — and Write Faster Code](https://medium.com/@bretcameron/ace-your-coding-interview-by-understanding-big-o-notation-and-write-faster-code-6b60bd498040)
 - [🎞️ Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
 - [📃 Big O Practice](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/big-o-practice)
+
+### Arrays
