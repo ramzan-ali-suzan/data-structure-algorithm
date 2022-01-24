@@ -104,3 +104,12 @@ Source: [javascript-algorithms](https://github.com/trekhleb/javascript-algorithm
 - In many languages like (C#, Java) arrays are static
 
 ![Array](./assets/array.png)
+
+### Complexity
+
+| Operation       | Big O |
+| --------------- | ----- |
+| Lookup by Index | O(1)  |
+| Lookup by Value | O(n)  |
+| Insert          | O(n)  |
+| Delete          | O(n)  |
