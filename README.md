@@ -96,4 +96,11 @@ Source: [javascript-algorithms](https://github.com/trekhleb/javascript-algorithm
 - [🎞️ Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
 - [📃 Big O Practice](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/big-o-practice)
 
-### Arrays
+## Arrays
+
+- Array is the simplest data structure
+- Array used to store list of items
+- Array is the optimal data structure for accessing data by their index
+- In many languages like (C#, Java) arrays are static
+
+![Array](./assets/array.png)
