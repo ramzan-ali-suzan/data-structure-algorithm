@@ -19,23 +19,11 @@ Data structures are divided into two categories:
 
 ### Linear Data Structure
 
-Data elements are arranged in a linear order.
-
-Examples are: array, stack, queue, linked-list etc.
-
-Applications of linear data structures are mainly in application software development.
-
-In a linear data structure, memory is not utilized in an efficient way.
+Data elements are arranged in a linear order. Examples are: array, stack, queue, linked-list etc. Applications of linear data structures are mainly in application software development. In a linear data structure, memory is not utilized in an efficient way.
 
 ### Non-linear Data Structure
 
-Data elements are attached in hierarchically manner.
-
-Examples are: trees and graphs.
-
-Applications of non-linear data structures are in artificial intelligence and image processing.
-
-In non-linear data structure, memory is utilized in an efficient way.
+Data elements are attached in hierarchically manner. Examples are: trees and graphs. Applications of non-linear data structures are mainly in artificial intelligence and image processing. In non-linear data structure, memory is utilized in an efficient way.
 
 ## Algorithm
 
@@ -43,9 +31,7 @@ An algorithm is a set of instructions for solving a problem or accomplishing a t
 
 ### Algorithm Efficiency
 
-Algorithm efficiency relates to the amount of computational resources used by the algorithm.
-
-For maximum efficiency we wish to minimize resource usage.
+Algorithm efficiency relates to the amount of computational resources used by the algorithm. For maximum efficiency we wish to minimize resource usage.
 
 ### Algorithm Complexity
 
